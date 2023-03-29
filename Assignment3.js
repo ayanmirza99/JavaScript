@@ -2,4 +2,4 @@
 // Convert the temperature to Celsius and store the result in a new variable called “celsius”. Display the value of celsius to the console.
 const temperature=72;
 const celsius = (temperature - 32) / 1.8;
-console.log(`${temperature} degree celsius is equal to ${celsius} degree fahrenheit.`);
+console.log(`${temperature} degree farenheit is equal to ${celsius} degree celsius.`);
